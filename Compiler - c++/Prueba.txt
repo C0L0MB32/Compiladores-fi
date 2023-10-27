@@ -39,3 +39,4 @@ decimal
 DECIMAL
 escribir
 ESCRIBIR
+holaMundo
